@@ -54,10 +54,10 @@ echo -e "\t${colors[rand1]} |       || | |   ||       ||   ||       | |       ||
 echo -e "\t${colors[rand1]} |       || |_|   ||       ||   ||  _    | |       ||       ||      _||     |_"
 echo -e "\t${colors[rand1]} |   _   ||       || ||_|| ||   || | |   | |   _   ||   _   ||     |_ |    _  |"
 echo -e "\t${colors[rand1]} |__| |__||______| |_|   |_||___||_|  |__| |__| |__||__| |__||_______||___| |_|"
-        echo -e "                 \t${bd}${g}╭${w} Author  ${b}:${c} ${ul}Mishakorzhik${n}          ${g}${n}"
-        echo -e "                 \t${bd}${g}│${w} Version ${b}:${w} 1.8.2                          ${g}${n}"
+        echo -e "                 \t${bd}${g}╭${w} Author  ${b}:${c} ${ul}KrishnaGupta${n}          ${g}${n}"
+        echo -e "                 \t${bd}${g}│${w} Version ${b}:${w} 1.0.0                          ${g}${n}"
         echo -e "                 \t${bd}${g}│${w} Code    ${b}:${w} Bash, python                   ${g}${n}"
-        echo -e "     \t${bd}${g} ╭──────────────┴${w} Date    ${b}:${w} 16 05 2021                 ${g}${n}"
+        echo -e "     \t${bd}${g} ╭──────────────┴${w} Date    ${b}:${w} 22 01 2024                ${g}${n}"
 }
 
 # Function to check and print the content of robots.txt
